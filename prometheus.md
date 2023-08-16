@@ -1760,3 +1760,7 @@ admin_email = admin@localhost
 > ```
 >
 > 当需要恢复告警时，需要将其endsAt字段添加上即可，这里的时间为恢复告警的时间
+
+### 欢迎进群与大佬肩并肩
+
+![f267410faf338ee88480105c2dde1dac](https://github.com/zxl00/study_file/assets/45816590/91ebf6e3-3991-4bb6-85a3-7130f3c9247d)
